@@ -13,31 +13,31 @@ My time with the large contractor saw my team win 4 Environment Agency contracts
 ###Helper
 
 ##Education
-###Makers Academy
-####(January '16 - April '16)
+####Makers Academy
+######(January '16 - April '16)
 
-###London Academy of Music Production
-####(August '15 - October '15)
+####London Academy of Music Production
+######(August '15 - October '15)
 
-###ESCP Europe
-####(June '13 - August '13)
+####ESCP Europe
+######(June '13 - August '13)
 
-###Nottingham Trent University
-####(September '09 - June '13)
+####Nottingham Trent University
+######(September '09 - June '13)
 
-###Woodbridge School
-####(Semptember '99 - July '09)
+####Woodbridge School
+######(Semptember '99 - July '09)
 
 ##Experience
-###International Private Finance
-####(October '13 - August '15)
+####International Private Finance
+######(October '13 - August '15)
 
-###Jackson Civil engineering
-####(July '11 - July '12)
+####Jackson Civil engineering
+######(July '11 - July '12)
 
 ##Volunteer
-###Barnardos
-####(January '15 - present)
+####Barnardos
+######(January '15 - present)
 
-###Nottingham Business School
-####(September '15 - present)
+####Nottingham Business School
+######(September '15 - present)
