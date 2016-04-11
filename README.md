@@ -15,13 +15,7 @@ My experience as a builder comes from undertaking a degree with the Built Enviro
 ####Learner
 From a young age, learning new skills has been a driver for me. Never settling for what I already know, my desire to pick up new skills and formulate knowledgable opinions cannot be underestimated. It is also a firmly held belief that all opinions, especially my own, should be able to change given future learning.
 
-- Apart from coding, in the past two years alone, new skills include:
-..* Saxophone
-..* Music Production
-..* Ballet
-..* Bikram Yoga
-..* Agile working
-..* Basic French
+- Apart from coding, in the past two years alone, new skills have included Saxophone, Music Production, Ballet, Bikram Yoga, Agile working, Basic French
 - University saw me join numerous teams in order to learn new sports including Boxing, Ice Hockey, Lacrosse and Dance.
 - Whilst working in construction, the lead on the software testing, mentioned above, was given to me due to the speed I picked it up at.
 
