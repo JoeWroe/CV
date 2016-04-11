@@ -4,7 +4,7 @@ Recently graduating from the intensive Makers Academy, Learn to Code course, hon
 
 ##Skills
 ####Builder
-Some of my earliest memories are from before the start of school, as a young kid, having woken up 3 or 4 hours early just to play with my Lego. This was an initial foray into building things of my own. That passion for constructing the objects used and interacted with everyday has followed me throughout life and led to many of my proudest achievements.
+Some of my earliest memories are from before the start of school, as a young kid, having woken up 3 or 4 hours early just to play with my Lego. This was an initial foray into building things of my own. That passion for constructing the objects used and interacted with everyday has followed me throughout life and led to many of my proudest professional achievements.
 
 - My time with a large construction contractor saw my team become one of the few initial testers of a new piece of software called QS Cad, the feedback we provided saw its use grow throughout the industry.
 - Whilst working for a young International Financial Broker, the two person team I lead managed to double the amount of completed business from two of our key partners in France and build relationships with the likes of Knight Frank and UBS.
@@ -13,6 +13,17 @@ Some of my earliest memories are from before the start of school, as a young kid
 My experience as a builder comes from undertaking a degree with the Built Environment School at university, which directly led to a year with a large civil construction contractor. From there, 2 years where spent helping building the young financial brokerage, where the day-to-day challenge and chance to physically see the progress and evolution from decisions was my biggest motivator.
 
 ####Learner
+From a young age, learning new skills has been a driver for me. Never settling for what I already know, my desire to pick up new skills and formulate knowledgable opinions cannot be underestimated. It is also a firmly held belief that all opinions, especially my own, should be able to change given future learning.
+
+- Apart from coding, in the past two years alone, new skills include:
+..* Saxophone
+..* Music Production
+..* Ballet
+..* Bikram Yoga
+..* Agile working
+..* Basic French
+- University saw me join numerous teams in order to learn new sports including Boxing, Ice Hockey, Lacrosse and Dance.
+- Whilst working in construction, the lead on the software testing, mentioned above, was given to me due to the speed I picked it up at.
 
 ####Helper
 
