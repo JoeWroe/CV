@@ -27,46 +27,48 @@ When asked what the most important thing in my life is, the answer is without do
 
 ##Experience
 ####International Private Finance
-######(October '13 - August '15)
+######(Oct '13 - Aug '15)
 - Managed partnerships for the market leading international mortgage broker.
 - Built and handled relationships with partners such as Knight Frank and UBS.
 -	Pitched for and won business with partners such as the Zoopla Property Group.
 - A standout moment came after developing and re-writing the entire process for the Partnerships team in order to identify specific procedures.
 
 ####Jackson Civil engineering
-######(July '11 - July '12)
+######(Jul '11 - Jul '12)
 - Placement concluded with 3 months on an operational construction site.
 - Organised site deliveries, oversaw timesheets, recorded daily meeting minutes.
 -	Organising brickwork subcontractors into completing a delayed contract on time with the site manager, despite poor weather conditions, was a highlight.
 
 ##Education
 ####Makers Academy
-######(January '16 - April '16)
+######(Jan '16 - Apr '16)
 - 12 Week intensive Learn to Code Course
 - Final project repository https://github.com/HannSO/sos-fixit-angular (frontend), https://github.com/HannSO/sos-fixit-rails-api (backend)
 
-####London Academy of Music Production
-######(August '15 - October '15)
-- Music Production Beginners course
-
-####ESCP Europe
-######(June '13 - August '13)
-- International Business Management
-
 ####Nottingham Trent University
-######(September '09 - June '13)
+######(Sept '09 - Jun '13)
 - 2:1 (US GPA Equivalent 3.33 - 3.67), Including a sandwich year in industry
 - 1st class Dissertation:
 “Do Framework Agreements Increase Market Competition to a Level that Makes Barriers of Entry Into the Construction Industry Too High for SME Contractors”
 
 ####Woodbridge School
-######(Semptember '99 - July '09)
+######(Sept '99 - Jul '09)
 - 3 A-Levels, 2 AS-Levels
 
 ##Volunteer
 ####Barnardos
-######(January '15 - present)
+######(Jan '15 - present)
 - National Independant Volunteer of the year 2015
 
 ####Nottingham Business School
-######(September '15 - present)
+######(Sept '15 - present)
+
+##Further Skills
+- London Academy of Music Production - Music Production Beginners course (Aug '15 - Oct '15)
+- ESCP Europe - International Business Management (Jun '13 - Aug '13)
+- Gold Duke of Edinburgh Award (Aug '08)
+- Grade 5 Cello (Mar '05)
+- Grade 5 Piano (Mar '05)
+- LTA level 1 Award in coaching tennis (May '09)
+- PADI advanced open water diver (Mar '07)
+- Sargent rank in CCF and numerous badges for varying skills (Sep '03 – Aug '09)
