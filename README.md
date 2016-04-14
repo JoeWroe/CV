@@ -41,7 +41,7 @@ If asked the most influential aspect of my life, without doubt the answer is the
 ####Makers Academy
 ######(Jan '16 - Apr '16)
 - 12 Week intensive Learn to Code Course
-- Final project repository https://github.com/HannSO/sos-fixit-angular (frontend), https://github.com/HannSO/sos-fixit-rails-api (backend)
+- Final project repository https://github.com/JoeWroe/sos-fixit-angular (frontend), https://github.com/JoeWroe/sos-fixit-rails-api (backend)
 
 ####Nottingham Trent University
 ######(Sept '09 - Jun '13)
