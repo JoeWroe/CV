@@ -10,6 +10,12 @@ My earliest memory is of waking up 3 or 4 hours before school, just to play with
 - Working for a young International Financial Broker I doubled the amount of business from two key partners in France. The two man team I led built company relationships with Zoopla and strengthened relationships with the likes of Knight Frank and UBS.
 - More recently, the startup bank 'Mondo' has asked for my participation as an Alpha user of their product. Regular contributions and feedback can be seen on their forum.
 
+#####Current Open Source Developer Projects
+
+- Makers MTG Hub: https://github.com/MakersMTG/makers_MTG_hub
+- Personal website for a friend: https://github.com/JoeWroe/nathalie-smith
+- Website for a local homeless charity: https://github.com/JoeWroe/CLRSC
+
 ####Learner
 Since a young age, the practical learning experience has been a key driver. Never settling for what I already know, my desire to learn and formulate knowledgable opinions cannot be underestimated. It is my firmly held belief that all opinions should be flexible in the face of new ideas.
 
